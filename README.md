@@ -4,7 +4,7 @@ A Clojure library designed to add support to cheshire to deserialize objects tha
 
 ## Usage
 ```clojure
-[cheshire-hooke 0.1.0]
+[cheshire-hooke "0.1.0"]
 
 (require '[cheshire-hooke.core :refer :all])
 ```
